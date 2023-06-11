@@ -1,0 +1,5 @@
+[data_collector]
+name = "aiohttp"
+relPath = "./data_collector"
+subsystem = "python"
+translator = "pip"
